@@ -1,0 +1,14 @@
+# Python / uv
+.venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Otter grader logs
+.OTTER_LOG
+*.otter
+
+# macOS
+.DS_Store
